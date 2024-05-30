@@ -1,3 +1,12 @@
+This is Onilne Exam Managment Project. Exams are based only on MCQ questions.
+
+There are 4 access role/levels:
+super-admin
+admin
+faculty
+student
+
+
 super-admin credentials
 username: admin@admin.com 
 passowrd: password
